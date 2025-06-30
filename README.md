@@ -14,9 +14,9 @@ This example project contains multiple toy demos:
 After going through the `Setup` stage in this document the demo project can be run on the device.
 > Tip: `Short-press` the `Glyph Button` to navigate between the toys.
 
-The demo project already contains the necessary libraries (GlyphMatrix SDK) and source structure as an example. However, if you want to install libraries for your own application, please reference the SDK documentation.
+The demo project already contains the necessary libraries (GlyphMatrix SDK) and source structure as an example. However, if you want to install libraries for your own application, please reference the [**SDK documentation**](https://github.com/KenFeng04/GlyphMatrix-Example-Project).
 
-These examples are written in Kotlin and also provide a useful Kotlin wrapper around the original SDK that you can use in your own project.
+This demo is written in Kotlin, it also utilize a useful Kotlin wrapper around the original SDK that you can use in your own project.
 
 Requirements
 --------------
@@ -28,40 +28,23 @@ Setup
 
 **2.** Clone this project or download this repository as a ZIP and uncompress it to your local directory.
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 **3.** Open a new windows in Android studio and hit file on the menu bar, select open.
 
-</td>
-<td width="40%" align="left">
+<p align="center">
 <img src="images/open.png" alt="Open Project" style="max-height: 300px;">
-</td>
-</tr>
-
-<tr>
-<td width="60%" valign="top">
+</p>
 
 **4.** Select the directory where you have cloned the repository or the unzipped folder and click `Open`
 
-</td>
-<td width="40%" align="left">
+<p align="center">
 <img src="images/select.png" alt="Select Project" style="max-height: 300px;">
-</td>
-</tr>
-
-<tr>
-<td width="60%" valign="top">
+</p>
 
 **5.** Once the Gradle files have been synced and your phone is connected properly, you should see your device name shown at the top and a play button. Click the play button to install this example project.
 
-</td>
-<td width="40%" align="left">
+<p align="center">
 <img src="images/run.png" alt="Run Project" style="max-height: 300px;">
-</td>
-</tr>
-</table>
+</p>
 
 Running a Toy
 ------------
@@ -71,7 +54,7 @@ When the example project is installed on the device, toys within the project nee
 <tr>
 <td width="60%" valign="top">
 
-**1.** Open the `Glyph Interface` app from your device settigns.
+**1.** Open the `Glyph Interface` from your device settigns.
 
 **2.** Tap on the first button on the right menu to move toys to the enabled state.
 
