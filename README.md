@@ -16,7 +16,7 @@ This example project contains multiple toy demos:
 After going through the `Setup` stage in this document the demo project can be run on the device.
 > Tip: `Short-press` the `Glyph Button` to navigate between the toys.
 
-The demo project already contains the necessary libraries (GlyphMatrix SDK) and source structure as an example. However, if you want to install libraries for your own application, please reference the ![SDK documentation](https://github.com/KenFeng04/Glyph-Matrix-Development-Kit)
+The demo project already contains the necessary libraries (GlyphMatrix SDK) and source structure as an example. However, if you want to install libraries for your own application, please reference the [** SDK documentation **](https://github.com/KenFeng04/Glyph-Matrix-Development-Kit)
 
 The entire demo are written in Kotlin and also provide a useful Kotlin wrapper around the original SDK that you can use in your own project.
 
