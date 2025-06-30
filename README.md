@@ -1,4 +1,4 @@
-![glyphbutton_numbnail](https://github.com/user-attachments/assets/3bfe7e24-f763-4518-be6e-4fbc7ab11c0f)Glyph Matrix Example Project
+Glyph Matrix Example Project
 ====================
 
 About the Demo
