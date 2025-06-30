@@ -1,4 +1,4 @@
-Glyph Matrix Example Project
+Glyph Matrix Demo Project
 ====================
 
 
