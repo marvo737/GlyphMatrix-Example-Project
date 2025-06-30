@@ -1,4 +1,4 @@
-Glyph Matrix Example Project
+![glyphbutton_numbnail](https://github.com/user-attachments/assets/3bfe7e24-f763-4518-be6e-4fbc7ab11c0f)Glyph Matrix Example Project
 ====================
 
 About the Demo
@@ -17,6 +17,12 @@ After going through the `Setup` stage in this document the demo project can be r
 The demo project already contains the necessary libraries (GlyphMatrix SDK) and source structure as an example. However, if you want to install libraries for your own application, please reference the [**SDK documentation**](https://github.com/KenFeng04/GlyphMatrix-Example-Project).
 
 This demo is written in Kotlin, it also utilize  a useful Kotlin wrapper `GlyphMatrixService.kt`，wrap around the original SDK that you can use in your own project.
+
+
+
+https://github.com/user-attachments/assets/4dbaf7d1-fed0-4a1e-a0eb-38d9cbde046e
+
+
 
 Requirements
 --------------
