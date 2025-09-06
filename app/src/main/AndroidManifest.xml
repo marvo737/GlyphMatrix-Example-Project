@@ -114,7 +114,7 @@
                 android:resource="@string/toy_name_game_of_life" />
             <meta-data
                 android:name="com.nothing.glyph.toy.image"
-                android:resource="@drawable/basic_thumbnail" />
+                android:resource="@drawable/game_of_life_thumbnail" />
             <meta-data
                 android:name="com.nothing.glyph.toy.summary"
                 android:resource="@string/toy_summary_game_of_life" />
